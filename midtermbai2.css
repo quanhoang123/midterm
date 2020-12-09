@@ -1,0 +1,27 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.container {
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+}
+
+.rightcontent {
+    width: 50%;
+    float: left;
+}
+
+.rightcontent img {
+    width: 100%;
+}
+
+.leftcontent {
+    width: 50%;
+}
+
+.leftcontent p {
+    float: left;
+}
